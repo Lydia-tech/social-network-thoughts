@@ -44,5 +44,7 @@ A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
 - moment
 - mongoose
 
+## Demo of app
+ You can view a walkthrough video of the app [here](https://drive.google.com/file/d/1P7oV4UhbDMgxNZCMRBR5ZDAfSSfv2jux/view)
 ## Questions
 If you have questions, email me at [lkennedy@gmail.com](lkennedy@gmail.com@gmail.com) or reach out on [GitHub](https://github.com/Lydia-tech).
